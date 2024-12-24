@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContainerWiithMostWater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0cc7839e11d42fb9e1920c0b8effd9a33cbb1f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba17bc181e3875489ae23309455c88064ce5f7eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContainerWiithMostWater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContainerWiithMostWater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
