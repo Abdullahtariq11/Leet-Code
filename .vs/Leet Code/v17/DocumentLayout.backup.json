@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Leet-Code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{552BDD03-981E-4843-B9A3-AADC93106759}|BoatToSavePeople\\BoatToSavePeople.csproj|c:\\users\\abdul\\source\\repos\\leet-code\\boattosavepeople\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552BDD03-981E-4843-B9A3-AADC93106759}|BoatToSavePeople\\BoatToSavePeople.csproj|solutionrelative:boattosavepeople\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9100886-CF56-4D08-A544-10EF087CB4D9}|ValidMountainArray\\ValidMountainArray.csproj|c:\\users\\abdul\\source\\repos\\leet-code\\validmountainarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9100886-CF56-4D08-A544-10EF087CB4D9}|ValidMountainArray\\ValidMountainArray.csproj|solutionrelative:validmountainarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Leet-Code\\BoatToSavePeople\\Program.cs",
+              "RelativeDocumentMoniker": "BoatToSavePeople\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Leet-Code\\BoatToSavePeople\\Program.cs",
+              "RelativeToolTip": "BoatToSavePeople\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:22:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Leet-Code\\ValidMountainArray\\Program.cs",
               "RelativeDocumentMoniker": "ValidMountainArray\\Program.cs",
               "ToolTip": "C:\\Users\\abdul\\source\\repos\\Leet-Code\\ValidMountainArray\\Program.cs",
               "RelativeToolTip": "ValidMountainArray\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T08:17:31.919Z",
               "EditorCaption": ""

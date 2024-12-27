@@ -19,7 +19,7 @@ bool IsMountainarray(int[] array)
     //cannot be peak at first or end
     if(i==0 || i==array.Length-1)
         return false;
-    while (i <= (array.Length-1 ) && array[i] < array[i+11] )
+    while (i <= (array.Length-1 ) && array[i] < array[i+1] )
     {
         i++;
 
