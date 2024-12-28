@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/bin/Debug/net8.0/MoveZeros
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/bin/Debug/net8.0/MoveZeros.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/bin/Debug/net8.0/MoveZeros.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/bin/Debug/net8.0/MoveZeros.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/bin/Debug/net8.0/MoveZeros.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/refint/MoveZeros.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/MoveZeros.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/obj/Debug/net8.0/ref/MoveZeros.dll
