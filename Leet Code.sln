@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros", "MoveZeros\Move
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstring", "LongestSubstring\LongestSubstring.csproj", "{D2EFA643-1C8A-4FD9-BA0A-EC11ED5A43DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{432600C5-C6DD-49D4-BEC6-CA23211F809F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D2EFA643-1C8A-4FD9-BA0A-EC11ED5A43DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2EFA643-1C8A-4FD9-BA0A-EC11ED5A43DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2EFA643-1C8A-4FD9-BA0A-EC11ED5A43DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432600C5-C6DD-49D4-BEC6-CA23211F809F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432600C5-C6DD-49D4-BEC6-CA23211F809F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432600C5-C6DD-49D4-BEC6-CA23211F809F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432600C5-C6DD-49D4-BEC6-CA23211F809F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
