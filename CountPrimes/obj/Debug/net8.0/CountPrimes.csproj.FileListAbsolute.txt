@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/bin/Debug/net8.0/CountPrimes
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/bin/Debug/net8.0/CountPrimes.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/bin/Debug/net8.0/CountPrimes.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/bin/Debug/net8.0/CountPrimes.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/bin/Debug/net8.0/CountPrimes.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/refint/CountPrimes.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/CountPrimes.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/obj/Debug/net8.0/ref/CountPrimes.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidMountainArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c152fc8f229d6e130372981f920d4771449cfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fcbf5110cb9d8aeafe1def45aba23c948e947b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidMountainArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidMountainArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

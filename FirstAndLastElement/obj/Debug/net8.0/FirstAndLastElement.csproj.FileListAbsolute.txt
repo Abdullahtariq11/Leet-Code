@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/bin/Debug/net8.0/FirstAndLastElement
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/bin/Debug/net8.0/FirstAndLastElement.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/bin/Debug/net8.0/FirstAndLastElement.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/bin/Debug/net8.0/FirstAndLastElement.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/bin/Debug/net8.0/FirstAndLastElement.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/refint/FirstAndLastElement.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/FirstAndLastElement.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstAndLastElement/obj/Debug/net8.0/ref/FirstAndLastElement.dll
