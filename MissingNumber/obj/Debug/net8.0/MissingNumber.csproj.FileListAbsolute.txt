@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/bin/Debug/net8.0/MissingNumber
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/bin/Debug/net8.0/MissingNumber.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/bin/Debug/net8.0/MissingNumber.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/bin/Debug/net8.0/MissingNumber.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/bin/Debug/net8.0/MissingNumber.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/refint/MissingNumber.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/MissingNumber.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MissingNumber/obj/Debug/net8.0/ref/MissingNumber.dll
