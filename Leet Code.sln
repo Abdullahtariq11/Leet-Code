@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPrimes", "CountPrimes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAndLastElement", "FirstAndLastElement\FirstAndLastElement.csproj", "{9785F846-751F-4E78-9A2F-36C8ABCA9834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{D3B3131C-9596-420A-85F8-19F82835E03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotReturntoOrigin", "RobotReturntoOrigin\RobotReturntoOrigin.csproj", "{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{9785F846-751F-4E78-9A2F-36C8ABCA9834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9785F846-751F-4E78-9A2F-36C8ABCA9834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9785F846-751F-4E78-9A2F-36C8ABCA9834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B3131C-9596-420A-85F8-19F82835E03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B3131C-9596-420A-85F8-19F82835E03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B3131C-9596-420A-85F8-19F82835E03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B3131C-9596-420A-85F8-19F82835E03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

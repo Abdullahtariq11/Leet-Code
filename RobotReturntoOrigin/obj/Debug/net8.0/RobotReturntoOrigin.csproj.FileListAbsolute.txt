@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/bin/Debug/net8.0/RobotReturntoOrigin
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/bin/Debug/net8.0/RobotReturntoOrigin.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/bin/Debug/net8.0/RobotReturntoOrigin.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/bin/Debug/net8.0/RobotReturntoOrigin.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/bin/Debug/net8.0/RobotReturntoOrigin.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/refint/RobotReturntoOrigin.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/RobotReturntoOrigin.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/obj/Debug/net8.0/ref/RobotReturntoOrigin.dll

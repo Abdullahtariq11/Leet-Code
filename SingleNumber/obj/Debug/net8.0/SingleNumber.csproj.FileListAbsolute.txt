@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/bin/Debug/net8.0/SingleNumber
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/bin/Debug/net8.0/SingleNumber.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/bin/Debug/net8.0/SingleNumber.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/bin/Debug/net8.0/SingleNumber.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/bin/Debug/net8.0/SingleNumber.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/refint/SingleNumber.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/SingleNumber.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/SingleNumber/obj/Debug/net8.0/ref/SingleNumber.dll
