@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotReturntoOrigin", "RobotReturntoOrigin\RobotReturntoOrigin.csproj", "{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{3088F6F4-6E3B-4371-B7EB-EED4E8C47190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70C43731-4B9D-4873-ADDC-9DD0AD99C63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3088F6F4-6E3B-4371-B7EB-EED4E8C47190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3088F6F4-6E3B-4371-B7EB-EED4E8C47190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3088F6F4-6E3B-4371-B7EB-EED4E8C47190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3088F6F4-6E3B-4371-B7EB-EED4E8C47190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
