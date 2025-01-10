@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{D2ED3FD7-3D03-44CA-8D68-23A914FB7ADD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{7BE79B41-D5EF-4AC9-98B5-8298B6F99D32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D2ED3FD7-3D03-44CA-8D68-23A914FB7ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2ED3FD7-3D03-44CA-8D68-23A914FB7ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2ED3FD7-3D03-44CA-8D68-23A914FB7ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE79B41-D5EF-4AC9-98B5-8298B6F99D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE79B41-D5EF-4AC9-98B5-8298B6F99D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE79B41-D5EF-4AC9-98B5-8298B6F99D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE79B41-D5EF-4AC9-98B5-8298B6F99D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
