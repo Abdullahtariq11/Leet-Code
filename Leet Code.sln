@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "Contai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{89524A09-6EA2-410D-883E-65B0BDEFE006}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSumCount", "FourSumCount\FourSumCount.csproj", "{55F3D6DF-D5F1-4E9F-8866-516DC7A6DD41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{89524A09-6EA2-410D-883E-65B0BDEFE006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89524A09-6EA2-410D-883E-65B0BDEFE006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89524A09-6EA2-410D-883E-65B0BDEFE006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F3D6DF-D5F1-4E9F-8866-516DC7A6DD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F3D6DF-D5F1-4E9F-8866-516DC7A6DD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F3D6DF-D5F1-4E9F-8866-516DC7A6DD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F3D6DF-D5F1-4E9F-8866-516DC7A6DD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
