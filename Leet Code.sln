@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructKPalindromeStrings
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinSubstringWindow", "MinSubstringWindow\MinSubstringWindow.csproj", "{3AD9E271-D40D-449A-96F6-248E34205BB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{5E478C22-E0B5-4009-9FA5-BC8D70366C16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3AD9E271-D40D-449A-96F6-248E34205BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD9E271-D40D-449A-96F6-248E34205BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD9E271-D40D-449A-96F6-248E34205BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E478C22-E0B5-4009-9FA5-BC8D70366C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E478C22-E0B5-4009-9FA5-BC8D70366C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E478C22-E0B5-4009-9FA5-BC8D70366C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E478C22-E0B5-4009-9FA5-BC8D70366C16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
