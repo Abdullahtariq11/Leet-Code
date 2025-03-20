@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "guS2FuCjkFonb5IpXsE3cobsJMNh1t0XZ4BICKmQUwwKTsfnR8z7HHgZuOby/oNO/r/Vyy0LCwQtRrmfPVW5/A==",
+  "dgSpecHash": "D7+Rqm4V70s=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/ContainerWiithMostWater/ContainerWiithMostWater.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

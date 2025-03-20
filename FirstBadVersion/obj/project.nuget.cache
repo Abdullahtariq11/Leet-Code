@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jk/d6jYL+KLA3ygfx0dznBOxKyeC5azgRfIUS6YH2OipCNssD/pcnIZBrI2oAt69fCFmWBWvu4UKG1TClLlwZA==",
+  "dgSpecHash": "af2qw7Gmess=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/FirstBadVersion/FirstBadVersion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

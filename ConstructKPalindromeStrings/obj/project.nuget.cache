@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "J0Q7njs/p2IaY8umNHSID/qD61fDVXm6u6ZsofX733vHQRDT4bV5PtnbNFZoDmNhxfeZ/zSJzopvncaSr1nh0A==",
+  "dgSpecHash": "ZSeUKl90LnU=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/ConstructKPalindromeStrings/ConstructKPalindromeStrings.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

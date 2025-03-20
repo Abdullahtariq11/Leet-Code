@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wc15r2Pf24r4LKh95LYKjmQRIXBNyCEKc7jrME2TAmO36fFSI2bgSRSXNNu0ytqGonPIx2JkwCHWy+0fY1GzCw==",
+  "dgSpecHash": "CxJEbFuCRbc=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/ContainsDuplicate/ContainsDuplicate.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

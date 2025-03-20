@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tg95uEzxMSx56QUDmk8Q8GTwkeCXShqag8fTWxUF/Mfb9Q6KHOimq7q1CyDEU6jOqj7rMYhrLABSVI73By/LYg==",
+  "dgSpecHash": "pR9f6nhmrsk=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/GroupAnagrams/GroupAnagrams.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

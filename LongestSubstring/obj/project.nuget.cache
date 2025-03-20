@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kABNT4u2zImjNP9PZzN4rFY5wxVi/kbQkqNflQM3HjmX5XP8ID3BQZU+raaKGWpyRwu+4w7PE313Q5Xk+9OklA==",
+  "dgSpecHash": "Mcb4ObzhH8U=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/LongestSubstring/LongestSubstring.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

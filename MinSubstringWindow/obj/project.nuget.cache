@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AQzVWQx1nZJQ0oj13us+bYUAqCSlUscyjG+V6O6TVbQEFkznYdYt2PtAnGUxp+RvlFm9B2o9cMb2qdf8PWDI+w==",
+  "dgSpecHash": "cX5w1+tuT/Y=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/MinSubstringWindow/MinSubstringWindow.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NF22ZR7EJ3y3DMYjalGvNIkt2iX8OrwrfvcwY+VfOH0cdBB7ThB+NPyAYmcZHpECBPyaXDOutJiUrOIJko1C2g==",
+  "dgSpecHash": "4yKMe7QEu1k=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/MoveZeros/MoveZeros.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8bxnkjPWOMRZz91jxgYey8fMF3J/SXq1cIlEBi3CkAFTL2kL9LAn0SsM6uoRNmyD4sgPnGYXzPKjMGmeVswjlQ==",
+  "dgSpecHash": "KTFlSSW4mQ8=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/RobotReturntoOrigin/RobotReturntoOrigin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

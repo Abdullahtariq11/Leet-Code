@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4ZC1J7Isnc3Vg45zmpVWJEzFAh+gT05hoGWQV6fnJ6bF8JSvKU59MZ2BtxTKEYMr3reClL7zNMFg05A7r8EaEA==",
+  "dgSpecHash": "UTMt+0b54Ro=",
   "success": true,
   "projectFilePath": "/Users/abdullahtariq/Documents/GitHub/Leet-Code/CountPrimes/CountPrimes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/abdullahtariq/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
