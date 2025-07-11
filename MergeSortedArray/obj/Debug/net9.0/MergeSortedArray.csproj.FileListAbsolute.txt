@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/bin/Debug/net9.0/MergeSortedArray
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/bin/Debug/net9.0/MergeSortedArray.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/bin/Debug/net9.0/MergeSortedArray.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/bin/Debug/net9.0/MergeSortedArray.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/bin/Debug/net9.0/MergeSortedArray.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/refint/MergeSortedArray.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/MergeSortedArray.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/MergeSortedArray/obj/Debug/net9.0/ref/MergeSortedArray.dll
