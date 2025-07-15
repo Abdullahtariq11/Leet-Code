@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDofStrings", "GCDofString
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{AD542976-0644-45C2-913C-4F904649AC50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1319708F-A601-478E-8A79-9B8E149543F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -335,6 +337,18 @@ Global
 		{AD542976-0644-45C2-913C-4F904649AC50}.Release|x64.Build.0 = Release|Any CPU
 		{AD542976-0644-45C2-913C-4F904649AC50}.Release|x86.ActiveCfg = Release|Any CPU
 		{AD542976-0644-45C2-913C-4F904649AC50}.Release|x86.Build.0 = Release|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Debug|x64.Build.0 = Debug|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Debug|x86.Build.0 = Debug|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Release|x64.ActiveCfg = Release|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Release|x64.Build.0 = Release|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Release|x86.ActiveCfg = Release|Any CPU
+		{1319708F-A601-478E-8A79-9B8E149543F0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

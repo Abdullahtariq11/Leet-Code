@@ -1,0 +1,15 @@
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/bin/Debug/net9.0/RemoveElement
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/bin/Debug/net9.0/RemoveElement.deps.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/bin/Debug/net9.0/RemoveElement.runtimeconfig.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/bin/Debug/net9.0/RemoveElement.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/bin/Debug/net9.0/RemoveElement.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.AssemblyInfoInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.AssemblyInfo.cs
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.csproj.CoreCompileInputs.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.sourcelink.json
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/refint/RemoveElement.dll
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.pdb
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/RemoveElement.genruntimeconfig.cache
+/Users/abdullahtariq/Documents/GitHub/Leet-Code/RemoveElement/obj/Debug/net9.0/ref/RemoveElement.dll
