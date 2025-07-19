@@ -16,7 +16,7 @@ int RemoveElement(int[] nums, int val)
         if (nums[i] == val)
         {
             i++;
-            places++;
+            places++; //Increment places 
 
         }
         else
