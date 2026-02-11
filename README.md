@@ -44,6 +44,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +53,8 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
