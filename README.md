@@ -39,10 +39,12 @@ Happy Coding! 😊
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -52,6 +54,7 @@ Happy Coding! 😊
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
 ## String
 |  |
