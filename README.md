@@ -46,6 +46,7 @@ Happy Coding! 😊
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -66,6 +67,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
