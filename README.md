@@ -44,6 +44,7 @@ Happy Coding! 😊
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
@@ -67,6 +68,7 @@ Happy Coding! 😊
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
@@ -78,6 +80,7 @@ Happy Coding! 😊
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 ## Sorting
 |  |
