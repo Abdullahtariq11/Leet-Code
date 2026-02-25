@@ -68,6 +68,7 @@ Happy Coding! 😊
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
@@ -98,6 +99,7 @@ Happy Coding! 😊
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
