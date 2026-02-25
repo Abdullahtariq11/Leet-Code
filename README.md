@@ -69,6 +69,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
@@ -94,4 +95,12 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
