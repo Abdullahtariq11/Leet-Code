@@ -51,6 +51,7 @@ Happy Coding! 😊
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Happy Coding! 😊
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Happy Coding! 😊
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Backtracking
 |  |
 | ------- |
