@@ -74,6 +74,7 @@ Happy Coding! 😊
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Happy Coding! 😊
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
 ## Backtracking
 |  |
