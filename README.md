@@ -49,6 +49,7 @@ Happy Coding! 😊
 | [0072-edit-distance](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -76,6 +77,7 @@ Happy Coding! 😊
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
@@ -93,6 +95,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 ## Counting
@@ -103,6 +106,7 @@ Happy Coding! 😊
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0860-lemonade-change) |
