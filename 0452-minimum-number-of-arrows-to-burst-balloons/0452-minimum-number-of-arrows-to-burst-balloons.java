@@ -1,6 +1,5 @@
 class Solution {
     public int findMinArrowShots(int[][] points) {
-        //lets sort by end time;
         Arrays.sort(points,(a,b)->Integer.compare(a[1],b[1]));
         int arrowCounts=1;
         int currentRangeEnd=points[0][1];
