@@ -135,6 +135,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -144,6 +145,7 @@ Happy Coding! 😊
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0733-flood-fill) |
 ## Matrix
@@ -155,4 +157,12 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
