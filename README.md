@@ -65,6 +65,7 @@ Happy Coding! 😊
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -126,6 +127,7 @@ Happy Coding! 😊
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -165,4 +167,8 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
