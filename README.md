@@ -67,6 +67,7 @@ Happy Coding! 😊
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0072-edit-distance) |
+| [0686-repeated-string-match](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abdullahtariq11/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Array
@@ -171,4 +172,5 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
