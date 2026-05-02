@@ -76,6 +76,7 @@ Happy Coding! 😊
 | [0039-combination-sum](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
@@ -129,6 +130,7 @@ Happy Coding! 😊
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -173,4 +175,8 @@ Happy Coding! 😊
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0686-repeated-string-match) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
