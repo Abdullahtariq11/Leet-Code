@@ -8,7 +8,7 @@ class Solution {
             int course = prerequisites[i][0];
             int prerequisite = prerequisites[i][1];
             
-            // b -> a (To take 'a', you must finish 'b' first)
+    
             courseGraph.get(prerequisite).add(course);
         }
         int [] isVisited= new int [numCourses];
