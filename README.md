@@ -81,6 +81,7 @@ Happy Coding! 😊
 | [0198-house-robber](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0695-max-area-of-island) |
@@ -92,6 +93,7 @@ Happy Coding! 😊
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Happy Coding! 😊
 | ------- |
 | [0169-majority-element](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abdullahtariq11/Leet-Code/tree/master/0455-assign-cookies) |
 ## Counting
